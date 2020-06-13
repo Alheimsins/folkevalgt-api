@@ -54,7 +54,7 @@
     "test-listen": "1.1.0"
   },
   "dependencies": {
-    "@alheimsins/acos-innsyn": "2.0.0",
+    "@alheimsins/acos-innsyn": "2.0.1",
     "axios": "0.19.2",
     "finalhandler": "1.1.2",
     "markdown-it": "11.0.0",
