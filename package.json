@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@alheimsins/acos-innsyn": "2.0.3",
-    "axios": "0.19.2",
+    "axios": "0.20.0",
     "finalhandler": "1.1.2",
     "markdown-it": "11.0.0",
     "micro": "9.3.4",
