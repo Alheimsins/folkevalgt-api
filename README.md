@@ -9,36 +9,36 @@ Støtter data hentet fra løsninger levert av Prokom, Acos og Tieto.
 
 # API
 
-## ```GET /kommuner```
+## ```GET /api/kommuner```
 
 Lister ut alle registrerte kommuner
 
 ```bash
-$ curl https://folkevalgt.alheimsins.net/kommuner
+$ curl https://folkevalgt.alheimsins.net/api/kommuner
 ```
 
-## ```GET /fylker```
+## ```GET /api/fylker```
 
 Lister ut alle registrerte fylker
 
 ```bash
-$ curl https://folkevalgt.alheimsins.net/fylker
+$ curl https://folkevalgt.alheimsins.net/api/fylker
 ```
 
-## ```GET /:områdenummer```
+## ```GET /api/utvalg?omrade=:områdenummer```
 
 Lister ut alle registrerte utvalg på bakgrunn av fylkesnummer eller kommunenummer
 
 ```bash
-$ curl https://folkevalgt.alheimsins.net/08
+$ curl https://folkevalgt.alheimsins.net/api/utvalg?omrade=0807
 ```
 
-## ```GET /:områdenummer/:utvalgsId```
+## ```GET /api/utvalg?omrade=:områdenummer&utvalgsid=:utvalgsId```
 
 Lister ut alle medlemmer i utvalg på bakgrunn av fylkesnummer/kommunenummer og utvalgsId
 
 ```bash
-$ curl https://folkevalgt.alheimsins.net/08/216162
+$ curl https://folkevalgt.alheimsins.net/api/utvalg?omrade=0807&utvalgsid=355
 ```
 
 ## License
