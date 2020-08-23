@@ -44,3 +44,9 @@ $ curl https://folkevalgt.alheimsins.net/api/utvalg?omrade=0807&utvalgsid=355
 ## License
 
 [MIT](LICENSE)
+
+## About
+
+Created with ❤ for [Alheimsins](https://alheimsins.net)
+
+<img src="https://image.ibb.co/dPH08G/logo_black.png" alt="Alheimsins logo" height="150px" width="150px" />
