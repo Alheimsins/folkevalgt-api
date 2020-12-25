@@ -52,7 +52,7 @@
     "standard": "16.0.3"
   },
   "dependencies": {
-    "@alheimsins/acos-innsyn": "2.0.4",
+    "@alheimsins/acos-innsyn": "2.0.5",
     "axios": "0.21.0",
     "opengov-meetings": "6.0.2"
   }
