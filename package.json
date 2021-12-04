@@ -54,6 +54,6 @@
   "dependencies": {
     "@alheimsins/acos-innsyn": "3.0.0",
     "axios": "0.23.0",
-    "opengov-meetings": "7.0.0"
+    "opengov-meetings": "7.0.1"
   }
 }
